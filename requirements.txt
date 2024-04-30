@@ -1,4 +1,8 @@
 numpy
 pandas
 seaborn
--e .  # its an indication to setup.py thats its there
+matplotlib
+scikit-learn
+catboost
+xgboost
+# -e .  # its an indication to setup.py thats its there
