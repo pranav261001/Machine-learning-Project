@@ -1,0 +1,1 @@
+# All the code related to transformation - encoding, categorial cal to numerical like that
